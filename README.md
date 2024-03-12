@@ -15,6 +15,7 @@ I was given the task of building a text editor that runs in the browser. A text 
 ## Usage
 
 To build this text editor I started with an existing application and implemented methods for getting and storing data to an IndexedDB database. To start the application run 'npm run start' from the root directory to start the backend and serve the client. Then run the text editor from your terminal to see the JavaScript files that have been bundled using webpack and the generated HTML file, service worker, and manifest.json file. Then open the text editor in the brower, enter content, and observe the content being saved with IndexedDB. Click the install button to download the application to use offline.
+<img width="1106" alt="image" src="https://github.com/jaschmidt22/progressive-web-application/assets/146290812/5945fbae-27dd-4997-8e30-31ff9e44a1e6">
 
 https://progressive-web-application-balr.onrender.com
 
